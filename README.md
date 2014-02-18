@@ -3,24 +3,24 @@ Assignment: CSS Hell
 
 
 Changes to Part 1
-=======================================================================================
-1) http://www.gutenberg.org/files/74/74-h/74-h.htm
-2) http://www.gutenberg.org/files/76/76-h/76-h.htm
-3) http://www.gutenberg.org/files/135/135-h/135-h.htm
-========================================================================================
+=======================================================================================<br>
+1) http://www.gutenberg.org/files/74/74-h/74-h.htm <br>
+2) http://www.gutenberg.org/files/76/76-h/76-h.htm <br>
+3) http://www.gutenberg.org/files/135/135-h/135-h.htm <br>
+========================================================================================<br>
 
-1) Changed Headlines color and added foreshadow 
-2) H1 alignment & font style is different than the rest of the headers
-3) HREF links color changes on click, hover and visited 
-4) Images got a circular-rectangle shape like
-5) Paragraphs are split into two columns 
-6) Font style and size changed 
-7) Added a paper like background cover image  
-8) Added Word and line spacing 
+1) Changed Headlines color and added foreshadow <br>
+2) H1 alignment & font style is different than the rest of the headers<br>
+3) HREF links color changes on click, hover and visited <br>
+4) Images got a circular-rectangle shape like<br>
+5) Paragraphs are split into two columns <br>
+6) Font style and size changed <br>
+7) Added a paper like background cover image  <br>
+8) Added Word and line spacing <br>
 
 
 
-git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
+git clone https://github.com/aghoneim0/CMPUT404-assignment-css-hell.git
 
 License/Copyright
 =================
