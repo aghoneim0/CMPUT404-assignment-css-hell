@@ -1,14 +1,24 @@
 Assignment: CSS Hell
 ====================
 
-You will skin 3 project gutenberg stories with custom CSS.
 
-You will skin 2 versions of a possible professional homepage for your
-self with 2 versions of CSS.
+Changes to Part 1
+=======================================================================================
+1) http://www.gutenberg.org/files/74/74-h/74-h.htm
+2) http://www.gutenberg.org/files/76/76-h/76-h.htm
+3) http://www.gutenberg.org/files/135/135-h/135-h.htm
+========================================================================================
 
-Read requirements.org
+1) Changed Headlines color and added foreshadow 
+2) H1 alignment & font style is different than the rest of the headers
+3) HREF links color changes on click, hover and visited 
+4) Images got a circular-rectangle shape like
+5) Paragraphs are split into two columns 
+6) Font style and size changed 
+7) Added a paper like background cover image  
+8) Added Word and line spacing 
 
-Read this comic http://theoatmeal.com/comics/design_hell
+
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
